@@ -4,4 +4,5 @@ hi! fresh fish .the road to coding master
 
 
 - [Resource](docs/resource.md)
-- [recently focused](docs/recently_focused.md)
+- [Recently focused](docs/recently_focused.md)
+- [Lyrics](docs/lyrics.md)
