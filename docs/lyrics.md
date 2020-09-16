@@ -1,4 +1,4 @@
-# Birthdays
+# Table Test
 
 | Who   | When     | Gift      |
 |-------|----------|-----------|  
