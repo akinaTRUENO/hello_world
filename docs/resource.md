@@ -14,3 +14,4 @@ google web api: https://blog.greenroots.info/10-lesser-known-web-apis-you-may-wa
 
 部分算法的python开源实现：https://github.com/TheAlgorithms/Python
 条码扫描：http://zbar.sourceforge.net/about.html
+美国大学评估：https://collegescorecard.ed.gov/
