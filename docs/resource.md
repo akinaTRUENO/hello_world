@@ -13,6 +13,9 @@ google web api: https://blog.greenroots.info/10-lesser-known-web-apis-you-may-wa
 开源教材，介绍计算机的底层实现,arm和rasberry: http://bob.cs.sonoma.edu/IntroCompOrg-RPi/frontmatter-1.html
 
 部分算法的python开源实现：https://github.com/TheAlgorithms/Python
+
 条码扫描：http://zbar.sourceforge.net/about.html
+
 美国大学评估：https://collegescorecard.ed.gov/
+
 python书籍：https://www.pythonkitchen.com/legally-free-python-books-list/
