@@ -21,3 +21,5 @@ google web api: https://blog.greenroots.info/10-lesser-known-web-apis-you-may-wa
 python书籍：https://www.pythonkitchen.com/legally-free-python-books-list/
 
 日本空屋银行： https://inakanoseikatsu.com/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%B1%B1%E5%8F%A3%E5%B8%82%E3%83%BB%E5%8F%A4%E6%B0%91%E5%AE%B6%E3%83%BB70%E4%B8%87%E5%86%86/
+
+generated doc website: https://docsify.js.org/
